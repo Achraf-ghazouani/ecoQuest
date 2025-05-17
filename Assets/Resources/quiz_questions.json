@@ -1,0 +1,182 @@
+[
+  {
+    "topic": "carbon footprint",
+    "question": "Which activity produces the least carbon emissions?",
+    "options": ["Biking", "Driving a car", "Taking an airplane", "Using a gas lawnmower"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "topic": "waste sorting",
+    "question": "Where should you put a plastic bottle?",
+    "options": ["Glass bin", "Plastic bin", "Compost bin", "Paper bin"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "energy conservation",
+    "question": "How can you reduce energy use at home?",
+    "options": ["Leave appliances plugged in", "Use LED bulbs", "Keep windows open in winter", "Run the dishwasher half-empty"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "carbon footprint",
+    "question": "Eating which food helps lower your carbon footprint?",
+    "options": ["Beef", "Chicken", "Vegetables", "Pork"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "topic": "waste sorting",
+    "question": "Which material is biodegradable?",
+    "options": ["Plastic", "Glass", "Banana peel", "Aluminum"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "topic": "energy conservation",
+    "question": "Which device uses the most electricity?",
+    "options": ["LED lamp", "Laptop", "Electric heater", "Ceiling fan"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "topic": "carbon footprint",
+    "question": "What reduces transportation emissions?",
+    "options": ["Carpooling", "Driving solo", "Owning two cars", "Taking short flights"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "topic": "waste sorting",
+    "question": "Which item belongs in the compost?",
+    "options": ["Plastic wrapper", "Apple core", "Glass bottle", "Aluminum can"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "energy conservation",
+    "question": "What is a good habit to save electricity?",
+    "options": ["Leave lights on", "Turn off electronics when not in use", "Use electric heaters in summer", "Use old appliances"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "carbon footprint",
+    "question": "Buying local products helps because it:",
+    "options": ["Increases pollution", "Supports global shipping", "Reduces transportation emissions", "Requires more packaging"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "topic": "waste sorting",
+    "question": "Where should newspapers be thrown?",
+    "options": ["Plastic bin", "Paper bin", "Glass bin", "Food waste bin"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "energy conservation",
+    "question": "Which is a renewable energy source?",
+    "options": ["Coal", "Oil", "Wind", "Natural gas"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "topic": "carbon footprint",
+    "question": "Which travel method is most eco-friendly?",
+    "options": ["Electric train", "Private jet", "SUV", "Speedboat"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "topic": "waste sorting",
+    "question": "What should you do with batteries?",
+    "options": ["Throw them in the trash", "Recycle them properly", "Burn them", "Bury them"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "energy conservation",
+    "question": "Which action saves energy during summer?",
+    "options": ["Leave windows open during the hottest part of the day", "Use blackout curtains", "Turn the oven on", "Leave AC on all day"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "carbon footprint",
+    "question": "Which industry emits the most greenhouse gases?",
+    "options": ["Fashion", "Agriculture", "Transportation", "Construction"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "topic": "waste sorting",
+    "question": "Where should an old mobile phone go?",
+    "options": ["Trash bin", "E-waste recycling center", "Compost", "Paper bin"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "energy conservation",
+    "question": "How can you lower heating bills?",
+    "options": ["Open windows", "Insulate your home", "Use more heaters", "Keep the heater on high"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "carbon footprint",
+    "question": "Which of the following is a low-carbon meal?",
+    "options": ["Beef steak", "Veggie stir-fry", "Lamb chops", "Pork ribs"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "waste sorting",
+    "question": "Where should you throw aluminum cans?",
+    "options": ["Glass bin", "Organic bin", "Metal recycling bin", "Compost bin"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "topic": "energy conservation",
+    "question": "Which action saves water and energy?",
+    "options": ["Long hot showers", "Fixing leaks", "Using a bath every day", "Running washing machines half-full"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "carbon footprint",
+    "question": "Buying second-hand clothes helps by:",
+    "options": ["Creating waste", "Using fewer resources", "Increasing pollution", "Using more plastic"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "waste sorting",
+    "question": "What color bin is usually for recycling paper?",
+    "options": ["Blue", "Green", "Yellow", "Red"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "topic": "energy conservation",
+    "question": "Solar panels produce energy using:",
+    "options": ["Wind", "Water", "Sunlight", "Coal"],
+    "correctAnswerIndex": 2
+  },
+  {
+    "topic": "carbon footprint",
+    "question": "Which home activity saves the most energy?",
+    "options": ["Leaving devices on standby", "Using energy-efficient appliances", "Keeping lights on", "Running the air conditioner all day"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "waste sorting",
+    "question": "Where do you dispose of food scraps?",
+    "options": ["Recycling bin", "Compost bin", "Glass bin", "Trash bin"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "energy conservation",
+    "question": "What should you do with old appliances?",
+    "options": ["Recycle them", "Throw them in the trash", "Store them forever", "Burn them"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "topic": "carbon footprint",
+    "question": "Using which transport emits the least CO2?",
+    "options": ["Bicycle", "Bus", "Motorbike", "Car"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "topic": "waste sorting",
+    "question": "What happens if waste is not sorted correctly?",
+    "options": ["It all gets recycled", "It can pollute the environment", "It becomes compost", "It disappears"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "topic": "energy conservation",
+    "question": "Smart thermostats help save energy by:",
+    "options": ["Keeping temperature constant", "Adjusting temperature based on need", "Turning heating off completely", "Using more energy"],
+    "correctAnswerIndex": 1
+  }
+]
